@@ -1,7 +1,7 @@
 # Search algorithm
 
 I build this simple game for using search algorithms in a live project.         
-this game is a good start for beginners who want to learn a smart algorithm to build smart again.
+this game is a good start for beginners who want to learn a smart algorithm to build smart game.
 if you are a student who takes  AI course this project will be very useful to you.
 I implement a lot of search algorithms with this game like **DFS,BFS,A-star,Dijkstra,...**     
 this game is a very simple game you need to reconnect the bridge bricks to cross the river, there is no GUI for this game 
